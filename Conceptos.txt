@@ -1,0 +1,9 @@
+Una clase es la base en la cual se van a definir características acerca de uno o varios atributos
+Un objeto es un tipo de dato en el que puede ser tanto tangible como intangible
+Un metodo son aquellas funciones que permite efectuar el objeto y que nos rinden algún tipo de servicio durante el transcurso del programa
+Un atributo son Características que aplican al objeto solo en el caso en que el sea visible en pantalla por el usuario
+Los setters son aquellos que fijan el valor de un atributo se denominan
+En los getters su función es permitir el obtener el valor de una propiedad de la clase y así poder utilizar dicho valor en diferentes métodos.
+Un puntero es una variable que almacena la dirección de memoria de un objeto
+Un constructor es un método cuyo nombre es igual que el nombre de su tipo
+Git hub es una plataforma que permite crear repositorios de código colaborativo.
