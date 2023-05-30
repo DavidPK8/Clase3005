@@ -7,3 +7,5 @@ En los getters su función es permitir el obtener el valor de una propiedad de l
 Un puntero es una variable que almacena la dirección de memoria de un objeto
 Un constructor es un método cuyo nombre es igual que el nombre de su tipo
 Git hub es una plataforma que permite crear repositorios de código colaborativo.
+
+Programación orientada a objetos
