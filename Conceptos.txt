@@ -9,3 +9,5 @@ Un constructor es un método cuyo nombre es igual que el nombre de su tipo
 Git hub es una plataforma que permite crear repositorios de código colaborativo.
 
 Programación orientada a objetos
+
+Texto modificado por naty
