@@ -1,0 +1,14 @@
+Diagrama de clases de UML para la clase LibroCalificaciones
+La fi gura 3.3 presenta un diagrama de clases de UML para la clase LibroCalificaciones de la fi gura 3.1. En
+la sección 1.16 vimos que UML es un lenguaje gráfi co, utilizado por los programadores para representar sistemas
+orientados a objetos en forma estandarizada. En UML, cada clase se modela en un diagrama de clases en forma
+de un rectángulo con tres componentes. El compartimiento superior contiene el nombre de la clase, centrado
+en forma horizontal y en negrita. El compartimiento de en medio contiene los atributos de la clase, que en Java
+corresponden a las variables de instancia. En la fi gura 3.3, el compartimiento de en medio está vacío, ya que la
+versión de la clase LibroCalificaciones en la fi gura 3.1 no tiene atributos. El compartimiento inferior contiene
+las operaciones de la clase, que en Java corresponden a los métodos. Para modelar las operaciones, UML lista el
+nombre de la operación precedido por un modifi cador de acceso y seguido de un conjunto de paréntesis. La clase
+LibroCalificaciones tiene un solo método llamado mostrarMensaje, por lo que el compartimiento inferior de
+
+la fi gura 3.3 lista una operación con este nombre. El método mostrarMensaje no requiere información adicio-
+nal para realizar sus tareas, por lo que los paréntesis que van después del nombre del método en el diagrama de
