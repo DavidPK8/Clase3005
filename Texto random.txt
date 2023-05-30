@@ -1,0 +1,9 @@
+Comenzaremos con una analogía simple, para ayudarle a comprender el concepto de las clases y su contenido.
+Suponga que desea conducir un automóvil y, para hacer que aumente su velocidad, debe presionar el pedal del acelerador. ¿Qué debe ocurrir antes de que pueda hacer esto? Bueno, antes de poder conducir un automóvil, alguien
+tiene que diseñarlo. Por lo general, un automóvil empieza en forma de dibujos de ingeniería, similares a los planos
+de construcción que se utilizan para diseñar una casa. Estos dibujos de ingeniería incluyen el diseño del pedal
+del acelerador, para que el automóvil aumente su velocidad. El pedal “oculta” los complejos mecanismos que se
+encargan de que el automóvil aumente su velocidad, de igual forma que el pedal del freno “oculta” los mecanismos
+que disminuyen la velocidad del automóvil y por otro lado, el volante “oculta” los mecanismos que hacen que el
+automóvil de vuelta. Esto permite que las personas con poco o nada de conocimiento acerca de cómo funcionan los
+motores puedan conducir un automóvil con facilidad.
