@@ -7,3 +7,5 @@ encargan de que el automóvil aumente su velocidad, de igual forma que el pedal 
 que disminuyen la velocidad del automóvil y por otro lado, el volante “oculta” los mecanismos que hacen que el
 automóvil de vuelta. Esto permite que las personas con poco o nada de conocimiento acerca de cómo funcionan los
 motores puedan conducir un automóvil con facilidad.
+
+Texto modificado
